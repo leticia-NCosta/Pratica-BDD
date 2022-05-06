@@ -1,0 +1,14 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "Prática de BDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Letícia Costa",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.2.0"
+  }
+}
